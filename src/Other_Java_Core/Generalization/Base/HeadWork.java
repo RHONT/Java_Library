@@ -1,7 +1,8 @@
 package Other_Java_Core.Generalization.Base;
 
-import Generalization.Intarfase.HeadActions;
-import Generalization.Enum.NameForRobotsParts;
+
+import Other_Java_Core.Generalization.Enum.NameForRobotsParts;
+import Other_Java_Core.Generalization.Intarfase.HeadActions;
 
 public class HeadWork<T extends HeadWork> {
     private HeadActions headActions;

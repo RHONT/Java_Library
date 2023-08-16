@@ -1,0 +1,7 @@
+1 Lich 100 200 35
+2 Archer 90 50 70
+3 Knight 400 100 50
+4 Gorgula 800 500 90
+5 Sceketon 60 20 15
+6 Mag 160 250 55
+7 Giant 5000 600 5

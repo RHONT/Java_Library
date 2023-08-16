@@ -1,6 +1,8 @@
 package Other_Java_Core.Generalization.Impl;
 
-import Generalization.Intarfase.HeadActions;
+
+
+import Other_Java_Core.Generalization.Intarfase.HeadActions;
 
 import java.util.Arrays;
 import java.util.Objects;

@@ -1,8 +1,9 @@
 package Other_Java_Core.Generalization.NewGeneration;
 
-import Generalization.Base.HeadWork;
-import Generalization.Enum.NameForRobotsParts;
-import Generalization.Intarfase.HeadActions;
+
+import Other_Java_Core.Generalization.Base.HeadWork;
+import Other_Java_Core.Generalization.Enum.NameForRobotsParts;
+import Other_Java_Core.Generalization.Intarfase.HeadActions;
 
 public class HeadChild extends HeadWork<HeadWork> {
 

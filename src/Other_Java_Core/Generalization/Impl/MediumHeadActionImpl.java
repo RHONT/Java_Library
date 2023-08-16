@@ -1,6 +1,7 @@
 package Other_Java_Core.Generalization.Impl;
 
-import Generalization.Intarfase.HeadActions;
+
+import Other_Java_Core.Generalization.Intarfase.HeadActions;
 
 public class MediumHeadActionImpl implements HeadActions {
     @Override

@@ -1,7 +1,8 @@
 package Other_Java_Core.Generalization;
 
-import Generalization.Base.BodyWork;
-import Generalization.Base.HeadWork;
+
+import Other_Java_Core.Generalization.Base.BodyWork;
+import Other_Java_Core.Generalization.Base.HeadWork;
 
 public class Robot<T1 extends HeadWork<HeadWork>, T2 extends BodyWork> {
     T1 head;

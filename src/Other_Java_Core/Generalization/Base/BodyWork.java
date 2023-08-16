@@ -1,6 +1,7 @@
 package Other_Java_Core.Generalization.Base;
 
-import Generalization.Enum.NameForRobotsParts;
+
+import Other_Java_Core.Generalization.Enum.NameForRobotsParts;
 
 public class BodyWork {
     final String name;

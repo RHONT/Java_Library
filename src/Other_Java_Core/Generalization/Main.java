@@ -1,10 +1,10 @@
 package Other_Java_Core.Generalization;
 
-import Generalization.Base.BodyWork;
-import Generalization.Base.HeadWork;
-import Generalization.Enum.NameForRobotsParts;
-import Generalization.Impl.SmallHeadImple;
-import Generalization.NewGeneration.HeadChild;
+import Other_Java_Core.Generalization.Base.BodyWork;
+import Other_Java_Core.Generalization.Base.HeadWork;
+import Other_Java_Core.Generalization.Enum.NameForRobotsParts;
+import Other_Java_Core.Generalization.Impl.SmallHeadImple;
+import Other_Java_Core.Generalization.NewGeneration.HeadChild;
 
 public class Main {
     public static void main(String[] args) {

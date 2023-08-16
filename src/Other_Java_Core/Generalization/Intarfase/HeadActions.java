@@ -1,6 +1,6 @@
 package Other_Java_Core.Generalization.Intarfase;
 
-import Generalization.Base.HeadWork;
+
 
 import java.util.function.Supplier;
 
